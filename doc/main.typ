@@ -18,6 +18,19 @@
   body
 }
 
+#section(
+  cols: 3,
+  title: "CSS named colors",
+  description: [
+    Standard colors supported by all browsers.
+    This is the palette of the CSS Color Module Level 4.
+
+  ],
+  name: "css-named",
+  palettes.css-named,
+  do-page-break: true,
+)
+
 // xcolor
 
 #section(

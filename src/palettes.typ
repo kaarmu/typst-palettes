@@ -10,3 +10,4 @@
 #import "palettes/xkcd.typ": *
 #import "palettes/okabe-ito.typ": *
 #import "palettes/latexcolors.typ": *
+#import "palettes/css-named.typ": *
